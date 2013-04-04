@@ -19,6 +19,8 @@ WriteMakefile(
         'Log::Log4perl'             => '1.36',
         'LWP::UserAgent'            => '2.036',
         'HTTP::Request::Common'     => '1.28',
+        'namespace::autoclean'      => '0.13',
+        'LWP::Protocol::https'      => '6.02',
         'Template'                  => '2.24',
         'Test::Simple'              => '0.78',
         'Test::More'                => '0.78',
