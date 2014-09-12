@@ -23,9 +23,6 @@ my $build = Module::Build->new
 	    'Template'                  => '2.24',
 	    'Test::Simple'              => '0.78',
 	    'Test::More'                => '0.78',
-            'FieldParser'               => '0.01',
-	    'HPPPM::ErrorHandler'       => '0.01',
-            'HPPPM::Demand::Management' => '0.01',
 	},
     );
 
